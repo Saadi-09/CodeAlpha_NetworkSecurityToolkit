@@ -151,11 +151,13 @@ curl http://example.com
 
 ### 🔹 Network Sniffer
 
-(Add screenshot here)
+<img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/0f6f7aa3-e17d-43d2-b048-32dd379c0a6e" />
+
 
 ### 🔹 IDS Dashboard
 
-(Add screenshot here)
+<img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/072b0208-e031-4d9f-b4be-ac51a735250f" />
+
 
 ---
 
